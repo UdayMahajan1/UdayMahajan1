@@ -22,7 +22,6 @@
 <a href="https://fb.com/uday.mahajan.1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uday.mahajan.1000" height="30" width="40" /></a>
 <a href="https://instagram.com/uday_mahajan144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uday_mahajan144" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/roadtostars144" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="roadtostars144" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/road_to_stars_144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="road_to_stars_144" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mahajanuday144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahajanuday144" height="30" width="40" /></a>
 </p><br>
 
