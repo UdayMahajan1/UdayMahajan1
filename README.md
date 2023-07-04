@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uday Mahajan</h1><br>
 <h3 align="center">A passionate backend developer</h3><br>
 
-- 🔭 I’m a sophomore currently pursuing a degree in CSE(Data Science) at <a href="https://www.djsce.ac.in/">DJSCOE</a>
+- 🔭 I’m a third year student currently pursuing a degree in CSE(Data Science) at <a href="https://www.djsce.ac.in/">DJSCOE</a>
 
 - 🌱 I’m currently learning **Full Stack Web development**
 
