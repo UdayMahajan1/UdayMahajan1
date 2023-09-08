@@ -5,7 +5,7 @@
 
 - 🔭 I’m a third year student currently pursuing a degree in CSE(Data Science) at <a href="https://www.djsce.ac.in/">DJSCOE</a>
 
-- 🔭 I’m currently working at Kenmark Itan Solutions as a Node JS developer.<br>
+- 🔭 I’m currently working at <a href="https://www.linkedin.com/company/kenmarkitansolutions/?originalSubdomain=in">Kenmark Itan Solutions</a> as a Node JS developer.<br>
 
 - 🌱 I’m currently learning **Full Stack Web development** and looking to collaborate on **Full Stack projects**
 
