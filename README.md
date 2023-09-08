@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/UdayMahajan1](https://github.com/UdayMahajan1)
 
-- 📫 How to reach me **You can reach me through my email 👉 mahajanuday144@gmail.com**
+- 📫 **You can reach me through my email 👉 mahajanuday144@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/pam2b6sur1](https://flowcv.com/resume/pam2b6sur1)
 
