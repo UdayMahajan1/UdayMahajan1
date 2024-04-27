@@ -5,8 +5,6 @@
 
 - 🔭 I’m a third year student currently pursuing a degree in CSE(Data Science) at <a href="https://www.djsce.ac.in/">DJSCOE</a>
 
-- 🌱 I’m currently learning **Full Stack Web development** and looking to collaborate on **Full Stack projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/UdayMahajan1](https://github.com/UdayMahajan1)
 
 - 📫 **You can reach me through my email 👉 mahajanuday144@gmail.com**
